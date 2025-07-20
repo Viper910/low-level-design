@@ -1,6 +1,6 @@
-package com.demo.observerdesignpattern.goodexample.observer;
+package com.demo.designpattern.observerdesign.goodexample.observer;
 
-import com.demo.observerdesignpattern.goodexample.observable.BankAccount;
+import com.demo.designpattern.observerdesign.goodexample.observable.BankAccount;
 
 public class SMSAlertService implements Observer {
     private final BankAccount account;

@@ -1,6 +1,6 @@
-package com.demo.observerdesignpattern.goodexample.observable;
+package com.demo.designpattern.observerdesign.goodexample.observable;
 
-import com.demo.observerdesignpattern.goodexample.observer.Observer;
+import com.demo.designpattern.observerdesign.goodexample.observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

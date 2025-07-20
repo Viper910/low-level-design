@@ -1,4 +1,4 @@
-package com.demo.strategypattern.badexample;
+package com.demo.designpattern.strategypattern.badexample;
 
 public class BankService {
 

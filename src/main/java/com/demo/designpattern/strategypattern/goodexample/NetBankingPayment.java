@@ -1,4 +1,4 @@
-package com.demo.strategypattern.goodexample;
+package com.demo.designpattern.strategypattern.goodexample;
 
 public class NetBankingPayment implements PaymentStrategy {
     @Override

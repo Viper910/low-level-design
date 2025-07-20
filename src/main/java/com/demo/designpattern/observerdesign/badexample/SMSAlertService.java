@@ -1,4 +1,4 @@
-package com.demo.observerdesignpattern.badexample;
+package com.demo.designpattern.observerdesign.badexample;
 
 
 public class SMSAlertService {
